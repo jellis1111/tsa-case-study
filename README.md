@@ -10,9 +10,8 @@ The dataset includes claims submitted to the TSA between 2002 and 2017. This ana
 
 | File Name           | Description                                  |
 |--------------------|----------------------------------------------|
-| `case_study.sas`   | Complete SAS code used in this analysis       |
-| `ClaimReports.pdf` | Final exported report using ODS PDF           |
-| `outputs/`         | Charts, screenshots, and tables   |
+| `SPPC TSA Case Study.sas`   | Complete SAS code used in this analysis       |
+| `Results_ SPPC TSA Case Study.sas.pdf` | Final exported report using ODS PDF           |
 
 ---
 
